@@ -12,5 +12,8 @@ public class Demo {
 
         int data = 5;
         System.out.println(data);
+
+        String name = "Yasindu";
+        System.out.println(name);
     }
 }
