@@ -9,5 +9,8 @@ public class Demo {
         //int ----> data type
         //age ----> variable name, studentAge / student_age
         int age = 41;
+
+        int data = 5;
+        System.out.println(data);
     }
 }
